@@ -1,0 +1,156 @@
+OrderID,OrderDate,ClientID,Region,Product,Category,SalesRep,UnitsSold,UnitPrice,Revenue
+ORD-1000,15/01/2026,C350,Europe,SaaS CRM Platform,SaaS,Anna K,1.0,299,299
+ORD-1001,2026-01-14,C704,LATAM,SaaS CRM Platform,SaaS,John D.,18.0,99,1782
+ORD-1002,2026-01-12,C617,North America,Cloud Storage Pro,Cloud,,7.0,199,"1,393"
+ORD-1003,2026-03-25,C325,LATAM,AI Analytics Suite,AI,DAVID T,18.0,499,8982
+ORD-1004,2026-01-01,C448,APAC,CyberShield Security,Security,Anna K,6.0,499,2994
+ORD-1005,2026-02-13,C489,North America,AI Analytics Suite,AI,,4.0,99,396
+ORD-1006,2026-03-19,C847,LATAM,CyberShield Security,Security,DAVID T,9.0,99,891
+ORD-1007,2026-02-18,C400,APAC,Cloud Storage Pro,Cloud,DAVID T,3.0,$999,2997
+ORD-1008,2026-04-01,C777,,AI Analytics Suite,AI,michael brown,3.0,99,297
+ORD-1009,2026-01-30,C384,LATAM,Cloud Storage Pro,Cloud,Emily R,4.0,$499,1996
+ORD-1010,2026-01-21,C314,,CyberShield Security,Security,Emily R,12.0,299,3588
+ORD-1011,2026-03-24,C750,europe,SaaS CRM Platform,SaaS,DAVID T,3.0,$999,2997
+ORD-1012,2026-02-01,C488,APAC,SaaS CRM Platform,SaaS,Emily R,,499,2994
+ORD-1013,2026-03-13,C963,North America,SaaS CRM Platform,SaaS,Anna K,8.0,299,"2,392"
+ORD-1014,2026-02-10,C167,Europe,Cloud Storage Pro,Cloud,DAVID T,13.0,$299,3887
+ORD-1015,2026-02-10,C505,LATAM,SaaS CRM Platform,SaaS,Anna K,7.0,499,3493
+ORD-1016,2026-01-18,C651,APAC,CyberShield Security,Security,Emily R,8.0,999,7992
+ORD-1017,24/02/2026,C470,Europe,IoT Device Manager,IoT,Anna K,19.0,$499,9481
+ORD-1018,2026-03-05,C981,North America,IoT Device Manager,IoT,Anna K,3.0,99,297
+ORD-1019,2026-01-21,C165,LATAM,SaaS CRM Platform,SaaS,Sara L.,14.0,999,13986
+ORD-1020,2026-03-01,C666,North America,IoT Device Manager,IoT,Emily R,17.0,299,"5,083"
+ORD-1021,2026-01-15,C887,APAC,SaaS CRM Platform,SaaS,John D.,18.0,299,5382
+ORD-1022,2026-02-25,C103,APAC,CyberShield Security,Security,DAVID T,6.0,499,2994
+ORD-1023,2026-03-06,C961,,AI Analytics Suite,AI,Anna K,4.0,$299,1196
+ORD-1024,2026-01-21,C100,,CyberShield Security,Security,Sara L.,18.0,999,17982
+ORD-1025,2026-01-15,C345,North America,Cloud Storage Pro,Cloud,Anna K,12.0,$299,"3,588"
+ORD-1026,2026-01-11,C935,North America,IoT Device Manager,IoT,DAVID T,3.0,499,1497
+ORD-1027,2026-01-17,C269,APAC,AI Analytics Suite,AI,DAVID T,16.0,999,15984
+ORD-1028,2026-02-24,C873,Europe,IoT Device Manager,IoT,Emily R,7.0,999,6993
+ORD-1029,2026-02-21,C629,LATAM,CyberShield Security,Security,John D.,12.0,499,5988
+ORD-1030,2026-01-29,C121,Europe,AI Analytics Suite,AI,DAVID T,3.0,299,897
+ORD-1031,2026-01-01,C334,North America,AI Analytics Suite,AI,John D.,3.0,$99,297
+ORD-1032,2026-01-10,C385,LATAM,CyberShield Security,Security,Anna K,17.0,199,3383
+ORD-1033,2026-01-17,C584,,IoT Device Manager,IoT,Sara L.,19.0,999,18981
+ORD-1034,25/01/2026,C774,LATAM,DevOps Automator,DevOps,michael brown,4.0,99,396
+ORD-1035,2026-02-22,C789,North America,DevOps Automator,DevOps,John D.,,99,1485
+ORD-1036,2026-02-13,C296,Europe,DevOps Automator,DevOps,DAVID T,4.0,199,796
+ORD-1037,18/01/2026,C385,LATAM,DevOps Automator,DevOps,Anna K,14.0,$199,2786
+ORD-1038,2026-02-26,C151,north america,Cloud Storage Pro,Cloud,John D.,18.0,99,"1,782"
+ORD-1039,2026-01-22,C592,Europe,AI Analytics Suite,AI,Sara L.,14.0,499,6986
+ORD-1040,2026-01-22,C499,APAC,Cloud Storage Pro,Cloud,Sara L.,13.0,99,"1,287"
+ORD-1041,2026-02-24,C258,Europe,CyberShield Security,Security,michael brown,18.0,499,8982
+ORD-1042,2026-01-08,C162,APAC,AI Analytics Suite,AI,John D.,19.0,$999,18981
+ORD-1043,2026-03-16,C973,Europe,Cloud Storage Pro,Cloud,John D.,16.0,999,"15,984"
+ORD-1044,2026-01-11,C709,North America,IoT Device Manager,IoT,Emily R,6.0,99,594
+ORD-1045,2026-02-21,C352,North America,AI Analytics Suite,AI,DAVID T,4.0,999,3996
+ORD-1046,2026-02-23,C635,APAC,Cloud Storage Pro,Cloud,michael brown,19.0,999,18981
+ORD-1047,2026-03-27,C371,LATAM,AI Analytics Suite,AI,Anna K,11.0,199,2189
+ORD-1048,24/03/2026,C423,N. America,SaaS CRM Platform,SaaS,John D.,,499,4990
+ORD-1049,2026-03-21,C175,Europe,DevOps Automator,DevOps,DAVID T,19.0,99,"1,881"
+ORD-1050,2026-01-17,C350,APAC,CyberShield Security,Security,michael brown,12.0,99,1188
+ORD-1051,2026-02-26,C726,North America,AI Analytics Suite,AI,Emily R,18.0,299,5382
+ORD-1052,2026-02-08,C370,North America,IoT Device Manager,IoT,John D.,4.0,$199,796
+ORD-1053,2026-03-12,C388,Europe,SaaS CRM Platform,SaaS,Emily R,5.0,299,1495
+ORD-1054,2026-01-27,C600,APAC,CyberShield Security,Security,John D.,9.0,999,8991
+ORD-1055,2026-03-23,C145,North America,Cloud Storage Pro,Cloud,michael brown,14.0,299,4186
+ORD-1056,2026-03-23,C859,LATAM,AI Analytics Suite,AI,DAVID T,,199,1791
+ORD-1057,2026-02-24,C214,North America,SaaS CRM Platform,SaaS,Emily R,18.0,99,1782
+ORD-1058,2026-03-11,C696,Europe,AI Analytics Suite,AI,Sara L.,,$299,598
+ORD-1059,2026-01-06,C915,NA,AI Analytics Suite,AI,michael brown,10.0,299,"2,990"
+ORD-1060,2026-03-29,C462,LATAM,AI Analytics Suite,AI,,8.0,$99,792
+ORD-1061,2026-01-20,C919,EU,SaaS CRM Platform,SaaS,Sara L.,8.0,199,"1,592"
+ORD-1062,23/01/2026,C921,Europe,Cloud Storage Pro,Cloud,michael brown,11.0,499,5489
+ORD-1063,2026-03-31,C993,North America,AI Analytics Suite,AI,Sara L.,4.0,499,1996
+ORD-1064,2026-01-26,C412,Europe,AI Analytics Suite,AI,Anna K,,299,"4,485"
+ORD-1065,2026-03-26,C436,APAC,Cloud Storage Pro,Cloud,John D.,7.0,499,"3,493"
+ORD-1066,2026-02-14,C795,APAC,CyberShield Security,Security,John D.,17.0,499,8483
+ORD-1067,2026-02-03,C371,North America,Cloud Storage Pro,Cloud,John D.,6.0,$999,5994
+ORD-1068,25/02/2026,C546,North America,IoT Device Manager,IoT,Sara L.,12.0,299,3588
+ORD-1069,25/01/2026,C825,LATAM,IoT Device Manager,IoT,John D.,9.0,99,891
+ORD-1070,10/03/2026,C541,North America,IoT Device Manager,IoT,,7.0,299,2093
+ORD-1071,2026-03-21,C837,APAC,CyberShield Security,Security,DAVID T,11.0,99,1089
+ORD-1072,27/03/2026,C512,APAC,CyberShield Security,Security,DAVID T,14.0,$299,4186
+ORD-1073,2026-01-25,C793,Europe,AI Analytics Suite,AI,DAVID T,,$499,"6,986"
+ORD-1074,08/02/2026,C953,North America,IoT Device Manager,IoT,michael brown,13.0,999,12987
+ORD-1075,2026-01-27,C721,,CyberShield Security,Security,,14.0,$999,13986
+ORD-1076,2026-02-26,C584,EU,DevOps Automator,DevOps,Emily R,7.0,$999,"6,993"
+ORD-1077,2026-02-06,C443,North America,Cloud Storage Pro,Cloud,Anna K,17.0,999,16983
+ORD-1078,2026-02-09,C250,North America,SaaS CRM Platform,SaaS,John D.,8.0,199,1592
+ORD-1079,2026-03-02,C566,,AI Analytics Suite,AI,Emily R,20.0,99,1980
+ORD-1080,2026-01-25,C509,Europe,IoT Device Manager,IoT,Anna K,13.0,499,6487
+ORD-1081,2026-03-30,C897,South America,SaaS CRM Platform,SaaS,Anna K,1.0,99,99
+ORD-1082,2026-03-31,C151,europe,AI Analytics Suite,AI,John D.,17.0,499,8483
+ORD-1083,2026-01-18,C672,APAC,DevOps Automator,DevOps,Sara L.,15.0,$999,14985
+ORD-1084,2026-03-06,C556,europe,IoT Device Manager,IoT,Emily R,14.0,999,13986
+ORD-1085,2026-02-27,C960,Asia Pacific,DevOps Automator,DevOps,DAVID T,9.0,199,1791
+ORD-1086,2026-03-22,C550,North America,DevOps Automator,DevOps,Emily R,8.0,299,2392
+ORD-1087,31/01/2026,C427,North America,CyberShield Security,Security,Anna K,9.0,$299,2691
+ORD-1088,2026-01-30,C823,europe,AI Analytics Suite,AI,John D.,13.0,199,"2,587"
+ORD-1089,2026-02-22,C577,LATAM,DevOps Automator,DevOps,John D.,11.0,999,10989
+ORD-1090,2026-02-23,C812,North America,AI Analytics Suite,AI,DAVID T,,999,12987
+ORD-1091,2026-03-03,C405,LATAM,DevOps Automator,DevOps,,1.0,$299,299
+ORD-1092,2026-03-11,C599,Europe,IoT Device Manager,IoT,michael brown,20.0,199,3980
+ORD-1093,2026-03-04,C444,,DevOps Automator,DevOps,Emily R,1.0,499,499
+ORD-1094,2026-03-01,C646,North America,AI Analytics Suite,AI,Sara L.,5.0,999,4995
+ORD-1095,2026-03-14,C758,LATAM,IoT Device Manager,IoT,Anna K,1.0,$99,99
+ORD-1096,2026-01-24,C488,Asia Pacific,DevOps Automator,DevOps,Anna K,2.0,299,598
+ORD-1097,2026-02-11,C384,LatAm,DevOps Automator,DevOps,,11.0,499,"5,489"
+ORD-1098,02/03/2026,C153,Asia Pacific,Cloud Storage Pro,Cloud,Anna K,1.0,999,999
+ORD-1099,2026-01-09,C353,Europe,SaaS CRM Platform,SaaS,John D.,2.0,99,198
+ORD-1100,2026-01-20,C584,North America,IoT Device Manager,IoT,DAVID T,8.0,199,1592
+ORD-1101,2026-03-01,C271,North America,AI Analytics Suite,AI,,9.0,$299,2691
+ORD-1102,2026-01-14,C419,LATAM,CyberShield Security,Security,Sara L.,19.0,99,1881
+ORD-1103,2026-01-26,C807,Europe,SaaS CRM Platform,SaaS,John D.,3.0,999,2997
+ORD-1104,2026-02-08,C915,North America,SaaS CRM Platform,SaaS,michael brown,20.0,99,1980
+ORD-1105,2026-02-24,C618,apac,IoT Device Manager,IoT,John D.,12.0,99,1188
+ORD-1106,04/03/2026,C470,LATAM,DevOps Automator,DevOps,Emily R,4.0,499,1996
+ORD-1107,2026-02-25,C766,APAC,AI Analytics Suite,AI,DAVID T,6.0,999,5994
+ORD-1108,2026-03-03,C945,APAC,IoT Device Manager,IoT,michael brown,15.0,499,"7,485"
+ORD-1109,2026-01-12,C349,LATAM,AI Analytics Suite,AI,DAVID T,9.0,499,"4,491"
+ORD-1110,2026-03-27,C129,LATAM,IoT Device Manager,IoT,michael brown,13.0,$299,3887
+ORD-1111,2026-03-04,C916,APAC,AI Analytics Suite,AI,michael brown,7.0,$299,2093
+ORD-1112,2026-03-18,C110,,CyberShield Security,Security,John D.,9.0,999,8991
+ORD-1113,2026-02-22,C876,Europe,AI Analytics Suite,AI,Emily R,16.0,$999,"15,984"
+ORD-1114,2026-03-24,C911,N. America,DevOps Automator,DevOps,John D.,16.0,499,7984
+ORD-1115,2026-01-29,C413,APAC,CyberShield Security,Security,Sara L.,13.0,199,2587
+ORD-1116,09/03/2026,C863,Asia Pacific,IoT Device Manager,IoT,michael brown,12.0,499,"5,988"
+ORD-1117,2026-02-28,C357,Europe,SaaS CRM Platform,SaaS,John D.,9.0,299,"2,691"
+ORD-1118,2026-01-25,C860,Europe,SaaS CRM Platform,SaaS,Anna K,11.0,99,"1,089"
+ORD-1119,2026-03-03,C878,APAC,AI Analytics Suite,AI,John D.,9.0,999,"8,991"
+ORD-1120,07/02/2026,C283,APAC,AI Analytics Suite,AI,John D.,8.0,299,2392
+ORD-1121,2026-03-10,C146,N. America,SaaS CRM Platform,SaaS,DAVID T,5.0,299,1495
+ORD-1122,2026-03-31,C205,North America,CyberShield Security,Security,DAVID T,5.0,499,2495
+ORD-1123,02/03/2026,C448,EU,CyberShield Security,Security,John D.,16.0,499,7984
+ORD-1124,2026-03-03,C510,LATAM,CyberShield Security,Security,John D.,4.0,$99,396
+ORD-1125,2026-03-22,C252,Asia Pacific,IoT Device Manager,IoT,John D.,2.0,199,398
+ORD-1126,2026-01-16,C720,europe,AI Analytics Suite,AI,DAVID T,18.0,499,8982
+ORD-1127,2026-02-27,C980,LATAM,DevOps Automator,DevOps,michael brown,,299,"4,485"
+ORD-1128,2026-03-21,C857,North America,IoT Device Manager,IoT,Anna K,2.0,999,1998
+ORD-1129,28/01/2026,C260,Europe,SaaS CRM Platform,SaaS,Anna K,9.0,99,891
+ORD-1130,10/01/2026,C518,LATAM,IoT Device Manager,IoT,Emily R,6.0,99,594
+ORD-1131,2026-03-02,C337,APAC,IoT Device Manager,IoT,Emily R,10.0,99,990
+ORD-1132,2026-03-31,C803,Europe,CyberShield Security,Security,michael brown,15.0,99,1485
+ORD-1133,2026-03-17,C217,Europe,SaaS CRM Platform,SaaS,Emily R,7.0,499,3493
+ORD-1134,2026-02-04,C161,europe,AI Analytics Suite,AI,michael brown,5.0,99,495
+ORD-1135,2026-03-14,C227,LATAM,IoT Device Manager,IoT,Emily R,10.0,499,4990
+ORD-1136,2026-03-31,C612,LATAM,CyberShield Security,Security,Sara L.,13.0,299,3887
+ORD-1137,2026-03-18,C852,apac,Cloud Storage Pro,Cloud,DAVID T,2.0,499,998
+ORD-1138,2026-01-04,C790,North America,CyberShield Security,Security,Emily R,3.0,$199,597
+ORD-1139,2026-03-15,C581,South America,CyberShield Security,Security,michael brown,2.0,199,398
+ORD-1140,2026-03-16,C193,LATAM,AI Analytics Suite,AI,michael brown,14.0,$499,"6,986"
+ORD-1141,12/02/2026,C978,Europe,DevOps Automator,DevOps,michael brown,11.0,99,1089
+ORD-1142,2026-03-30,C778,LATAM,DevOps Automator,DevOps,DAVID T,16.0,$299,4784
+ORD-1143,2026-02-28,C358,APAC,Cloud Storage Pro,Cloud,John D.,3.0,299,897
+ORD-1144,2026-03-07,C573,LATAM,DevOps Automator,DevOps,John D.,,999,999
+ORD-1145,2026-03-08,C874,LATAM,AI Analytics Suite,AI,Emily R,12.0,999,"11,988"
+ORD-1146,2026-01-07,C662,Europe,DevOps Automator,DevOps,,7.0,299,2093
+ORD-1147,2026-03-31,C129,Europe,DevOps Automator,DevOps,,16.0,99,1584
+ORD-1148,2026-02-09,C665,,AI Analytics Suite,AI,John D.,18.0,99,1782
+ORD-1149,2026-01-15,C763,Europe,AI Analytics Suite,AI,Sara L.,15.0,99,1485
+ORD-1073,2026-01-25,C793,Europe,AI Analytics Suite,AI,DAVID T,,$499,"6,986"
+ORD-1018,2026-03-05,C981,North America,IoT Device Manager,IoT,Anna K,3.0,99,297
+ORD-1118,2026-01-25,C860,Europe,SaaS CRM Platform,SaaS,Anna K,11.0,99,"1,089"
+ORD-1078,2026-02-09,C250,North America,SaaS CRM Platform,SaaS,John D.,8.0,199,1592
+ORD-1076,2026-02-26,C584,EU,DevOps Automator,DevOps,Emily R,7.0,$999,"6,993"
